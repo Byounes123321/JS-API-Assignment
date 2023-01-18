@@ -1,2 +1,2 @@
-# Weather API with JS
-    This is an assignment for JavaScript that incorporates the use of API's in a webpage.
+# JS-API-Assignment
+Using openweather api to make a webpage that displays the weather in different locations
